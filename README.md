@@ -1,3 +1,3 @@
-## Webpack starter kit
+# Webpack starter kit
 
-# https://v4.webpack.js.org/
+## https://v4.webpack.js.org/
